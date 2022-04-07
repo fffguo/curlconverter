@@ -24,7 +24,8 @@
     "nunjucks": "^3.2.3",
     "query-string": "^7.0.1",
     "string.prototype.startswith": "^1.0.0",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0",
+    "yargs": "^17.4.0"
   },
   "devDependencies": {
     "standard": "^16.0.4",
